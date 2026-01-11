@@ -1,7 +1,6 @@
 <!DOCTYPE HTML>
 <HTML>
-  <h1>
-    <title>Let's Brunch</title>
+  <h1>Let's Brunch
     </h1>
     <p>Brunch is calling! From sweet to savory (and everything in between), our menu is made for good company, great flavors, and relaxed mornings.</p>
     <br>
@@ -24,3 +23,14 @@
     <li>½ tsp oil for cooking</li>
   </ul>
 <p>Mix flour and baking powder in a bowl. Whisk in egg, milk, and honey. Heat pan with oil. Cook pancakes (¼ cup batter each) 2–3 min per side.</p>
+<br>
+<h2>Smoked Salmon Avocado Toast (Serves 6)</h2>
+<ul>
+  <li>6 slices sourdough bread</li>
+  <li>3 ripe avocados</li>
+  <li>6 oz (170 g) smoked salmon</li>
+  <li>1 lemon</li>
+  <li>Salt & pepper</li>
+  <li>Optional: capers, red onion</li>
+</ul>
+<p>Toast bread until crisp. Mash avocados with lemon juice, salt, and pepper. Spread avocado on toast. Top with smoked salmon. Garnish with capers or onion if desired.</p>
