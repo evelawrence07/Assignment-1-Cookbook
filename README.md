@@ -49,3 +49,25 @@
   <li>Salt & pepper</li>
 </ul>
 <p>Heat oil in a large skillet over medium heat. Sauté onion and pepper until soft. Add garlic and spices; cook 1 minute. Stir in tomatoes, salt, and pepper. Simmer 10–15 minutes until thickened. Make small wells and crack eggs into sauce. Cover and cook until whites set. Serve with bread.</p>
+<br>
+<h2>Veggie Egg Muffins</h2>
+<ul>
+  <li>2 large eggs</li>
+  <li>2 tbsp chopped spinach</li>
+  <li>2 tbsp diced bell peppe</li>
+  <li>1 tbsp chopped onion</li>
+  <li>Salt & pepper</li>
+  <li>1 tbsp grated cheese (optional)</li>
+</ul>
+<p>Preheat oven to 180°C / 350°F. Whisk eggs with salt and pepper. Stir in vegetables and cheese. Pour into greased muffin cups. Bake 18–22 minutes until set.</p>
+<br>
+<h2>Breakfast Wrap</h2>
+<ul>
+  <li>1 whole-wheat tortilla</li>
+  <li>2 eggs</li>
+  <li>¼ cup spinach</li>
+  <li>2 tbsp diced tomato</li>
+  <li>2 tbsp avocado slices</li>
+</ul>
+<p>Scramble eggs in a pan. Add spinach and tomato and saute. Warm tortilla. Layer eggs, spinach, tomato, and avocado. Roll tightly and serve warm.</p>
+<br>
