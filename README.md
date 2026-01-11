@@ -1,11 +1,11 @@
 <!DOCTYPE HTML>
 <HTML>
-  <head>
+  <h1>
     <title>Let's Brunch</title>
-    </head>
+    </h1>
     <p>Brunch is calling! From sweet to savory (and everything in between), our menu is made for good company, great flavors, and relaxed mornings.</p>
     <br>
-    <h1>Chia Pudding</h1>
+    <h2>Chia Pudding</h2>
 <ul>
 <li>3 tbsp chia seeds</li>  
   <li>1 cup almond milk (or any milk)</li>
