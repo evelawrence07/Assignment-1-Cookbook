@@ -34,3 +34,18 @@
   <li>Optional: capers, red onion</li>
 </ul>
 <p>Toast bread until crisp. Mash avocados with lemon juice, salt, and pepper. Spread avocado on toast. Top with smoked salmon. Garnish with capers or onion if desired.</p>
+<br>
+<h2>Shakshuka (Serves 6)</h2>
+<ul>
+  <li>2 tbsp olive oil</li>
+  <li>1 onion, diced</li>
+  <li>1 red bell pepper, sliced</li>
+  <li>3 cloves garlic, minced</li>
+  <li>2 tsp paprika</li>
+  <li>1 tsp cumin</li>
+  <li>¼ tsp chili flakes</li>
+  <li>1 can (28 oz / 800 g) crushed tomatoes</li>
+  <li>6 large eggs</li>
+  <li>Salt & pepper</li>
+</ul>
+<p>Heat oil in a large skillet over medium heat. Sauté onion and pepper until soft. Add garlic and spices; cook 1 minute. Stir in tomatoes, salt, and pepper. Simmer 10–15 minutes until thickened. Make small wells and crack eggs into sauce. Cover and cook until whites set. Serve with bread.</p>
