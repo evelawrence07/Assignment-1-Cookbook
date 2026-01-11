@@ -12,4 +12,7 @@
   <li>½ tsp vanilla extract</li>
   <li>½ cup fruit topping</li>
 </ul>
-<ol></ol>
+<ol>
+ <p> Stir chia chia seeds, milk, and vanilla. Refrigerate at least 4 hours or overnight.Stir and top with fruit before serving.</p>
+
+</ol>
