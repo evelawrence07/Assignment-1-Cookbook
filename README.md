@@ -81,8 +81,8 @@
   <li>Salt & pepper</li>
   <li>3 cups water</li>
 </ul>
-<p>Cook lentils: Rinse lentils, boil in water for ~12 minutes until slightly tender, then drain.
+<ol>Cook lentils: Rinse lentils, boil in water for ~12 minutes until slightly tender, then drain.
 Cook onions: Heat oil in a pan, add onions, salt, and cook until golden brown (about 15 minutes).
 Combine & cook: Add rice, lentils, cumin, salt, pepper, and 3 cups water. Bring to a boil, then cover and simmer 15 minutes until rice is done.
-Serve: Fluff with a fork, top with some of the cooked onions, and enjoy!</p>
+Serve: Fluff with a fork, top with some of the cooked onions, and enjoy!</ol>
 <br>
