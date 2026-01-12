@@ -81,8 +81,16 @@
   <li>Salt & pepper</li>
   <li>3 cups water</li>
 </ul>
-<ol>Cook lentils: Rinse lentils, boil in water for ~12 minutes until slightly tender, then drain.
+<p> Rinse lentils, boil in water for ~12 minutes until slightly tender, then drain.
 Cook onions: Heat oil in a pan, add onions, salt, and cook until golden brown (about 15 minutes).
 Combine & cook: Add rice, lentils, cumin, salt, pepper, and 3 cups water. Bring to a boil, then cover and simmer 15 minutes until rice is done.
-Serve: Fluff with a fork, top with some of the cooked onions, and enjoy!</ol>
+Serve: Fluff with a fork, top with some of the cooked onions, and enjoy!</p>
 <br>
+<h2>Greek Yogurt Berry Parfait</h2>
+<ul>
+  <li>¾ cup (170 g) plain Greek yogurt</li>
+  <li>½ cup mixed berries</li>
+  <li>2 tbsp granola</li>
+  <li>1 tsp honey or maple syrup</li>
+</ul>
+<p>Spoon half the yogurt into a glass or bowl. Add half the berries. Add remaining yogurt and berries. Top with granola and drizzle honey.</p>
