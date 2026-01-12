@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <HTML>
   <h1>Let's Brunch
     </h1>
