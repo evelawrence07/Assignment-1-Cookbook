@@ -94,3 +94,32 @@ Serve: Fluff with a fork, top with some of the cooked onions, and enjoy!</p>
   <li>1 tsp honey or maple syrup</li>
 </ul>
 <p>Spoon half the yogurt into a glass or bowl. Add half the berries. Add remaining yogurt and berries. Top with granola and drizzle honey.</p>
+<br>
+<h2>Avocado Toast with Egg</h2>
+<ul>
+  <li>1 slice whole-grain bread</li>
+  <li>½ ripe avocado</li>
+  <li>1 egg</li>
+  <li>Salt & pepper to taste</li>
+  <li>Chili flakes (optional)</li>
+</ul>
+<p>Toast the bread. Mash avocado with salt and pepper.Cook egg as desired (poached or fried works best). Spread avocado on toast and top with egg. Sprinkle chili flakes if using.</p>
+<br>
+<h2>Salmon Croquettes</h2>
+<ul>
+  <li>1 can (14–15 oz) salmon, drained</li>
+  <li>1 egg</li>
+  <li>½ cup breadcrumbs (or crushed crackers)</li>
+  <li>2 tbsp mayonnaise or Greek yogurt</li>
+  <li> 1 green bell pepper</li>
+  <li>1 tsp Dijon mustard (optional)</li>
+  <li>Salt & pepper</li>
+  <li>2–3 tablespoons of oil</li>
+</ul>
+<ol>
+  <li>Mix: Flake salmon (remove skin/bones if you want). Mix with egg, green bell pepper, breadcrumbs, mayo, mustard, onion, salt, and pepper.</li>
+  <li>Shape: Form into small patties.</li>
+  <li>Cook: Heat a thin layer of oil in a skillet over medium heat.Fry croquettes 3–4 minutes per side until golden and heated through.</li>
+  <li>Serve: Drain briefly on paper towels.</li>
+</ol>
+<p>Note: Add a splash of lemon to taste.</p>
