@@ -71,3 +71,18 @@
 </ul>
 <p>Scramble eggs in a pan. Add spinach and tomato and saute. Warm tortilla. Layer eggs, spinach, tomato, and avocado. Roll tightly and serve warm.</p>
 <br>
+<h2>Mujaddara (Serves 4)</h2>
+<ul>
+  <li>1 cup lentils (brown or green)</li>
+  <li>1 cup rice (basmati or long-grain)</li>
+  <li>2 large onions, sliced</li>
+  <li>3 tbsp olive oil</li>
+  <li>1 tsp cumin</li>
+  <li>Salt & pepper</li>
+  <li>3 cups water</li>
+</ul>
+<p>Cook lentils: Rinse lentils, boil in water for ~12 minutes until slightly tender, then drain.
+Cook onions: Heat oil in a pan, add onions, salt, and cook until golden brown (about 15 minutes).
+Combine & cook: Add rice, lentils, cumin, salt, pepper, and 3 cups water. Bring to a boil, then cover and simmer 15 minutes until rice is done.
+Serve: Fluff with a fork, top with some of the cooked onions, and enjoy!</p>
+<br>
